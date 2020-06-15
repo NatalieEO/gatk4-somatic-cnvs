@@ -2,6 +2,7 @@
 
 ### Purpose :
 Workflows for somatic copy number variant analysis.
+Bugsby
 
 ### cnv_somatic_panel_workflow :
 Builds a panel of normals (PON) for the cnv pair workflow.
